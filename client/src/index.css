@@ -1,0 +1,23 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap'); */
+/* @import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Satisfy&display=swap"); */
+
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inspiration&family=Satisfy&family=Send+Flowers&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-great-vibes {
+  font-family: "Great Vibes", cursive;
+}
+
+.font-inspiration {
+  font-family: "Inspiration", cursive;
+}
+.font-satisfy {
+  font-family: "Satisfy", cursive;
+}
+
+.font-send-flowers {
+  font-family: "Send Flowers", cursive;
+}

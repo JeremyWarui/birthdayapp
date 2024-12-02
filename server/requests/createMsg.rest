@@ -1,0 +1,28 @@
+###
+POST http://localhost:5000/api/messages
+Content-Type: application/json
+
+{
+    "name": "John Maina",
+    "message": "Happy Birthday gorgeous one!"
+}
+
+
+###
+POST http://localhost:5000/api/messages
+Content-Type: application/json
+
+{
+    "name": "Jessica Moana",
+    "message": "Yaay!! Its your birthday!"
+}
+
+
+###
+POST http://localhost:5000/api/messages
+Content-Type: application/json
+
+{
+    "name": "Paul Maine",
+    "message": "You made it! Happy Birthday! Have a blast!"
+}
